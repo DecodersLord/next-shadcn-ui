@@ -1,1 +1,3 @@
 # shadcn-nextjs-dashboard
+
+init
